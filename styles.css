@@ -4,6 +4,8 @@ body {
     color: white;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    width: 60%;
 }
 ul {
     margin: 0;
@@ -22,7 +24,7 @@ li {
     float: left;
 }
   
-li a {
+a {
     display: block;
     padding: 1.5vh 1.5vw;
     text-decoration: none;
@@ -30,9 +32,9 @@ li a {
     color: white;
 }
 
-li a:hover {
+a:hover {
     background-color: #C7647B;
 }
 .active {
-    background-color: #250e13;
+    background-color: #570b40;
 }
