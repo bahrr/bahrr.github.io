@@ -28,7 +28,6 @@ nav ul li {
 }
 
 a {
-    text-decoration: none;
     text-align: center;
     color: whitesmoke;
 }
@@ -37,6 +36,7 @@ nav ul li a {
     display: block;
     padding: 1.5vh 1.5vw;
     color: white;
+    text-decoration: none;
 }
 
 nav ul li a:hover {
